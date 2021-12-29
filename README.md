@@ -3,7 +3,7 @@
 
 - 🌱 Estudando Java 
 
-<div align="center">
+<div style="display: flex; justify-content: space-around;">
   <a href="https://github.com/brenda-rs">
   <img height="100em" width="380em" src="https://github-readme-stats.vercel.app/api?username=brenda-br3&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
   <img height="100em" width="480em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=brenda-br3&layout=compact&langs_count=7&theme=nightowl"/>
